@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amemume.
-The meaning of my name comes from my favorite Vtuber WatsonAmelia and NanashiMumei.
+     The meaning of my name comes from my favorite Vtuber WatsonAmelia and NanashiMumei.
 - 👀 I’m interested in game
 - 🌱 I’m currently learning C# and Python.
 - 📫 How to reach me: Discord 미래MIRAE#6349
